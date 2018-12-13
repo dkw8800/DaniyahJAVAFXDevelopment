@@ -1,0 +1,9 @@
+.root
+{
+    -fx-background-color:skyblue;
+}
+.label
+{
+    -fx-font-size: 20;
+    -fx-text-fill:purple;
+}
